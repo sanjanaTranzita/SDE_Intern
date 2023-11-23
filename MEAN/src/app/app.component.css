@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+    text-decoration-color: crimson;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    color:rgb(130, 13, 239);
+    background-color:aliceblue;
+}
+p{
+    font-size: large;
+    background-color: beige;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: brown;
+    
+
+
+}
